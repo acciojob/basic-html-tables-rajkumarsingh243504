@@ -1,2 +1,18 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */.container2
+     {
+        border:1px solid black;
+
+     }
+     th,td{
+        padding:5px;
+        text-align: left;
+        border-bottom: 1px solid #ddd; 
+     }
+     thead{
+        background-color: yellow;
+     }
+     table {
+  border-collapse: collapse;
+  width: 100%;
+       }
